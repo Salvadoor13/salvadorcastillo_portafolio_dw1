@@ -1,0 +1,203 @@
+:root{
+	--menu-hover:#4c2b93;
+	--color-general:#4c2b93;
+	--color-titulos:#282d33;
+	--color-iconos: #e0e0e0;
+	--color-checks:#53c3c9;
+}
+
+
+
+header{
+	
+	background-color: #8557cf;
+	padding: 5px 0;
+	border-bottom:1px solid #eee;
+	margin-bottom:10px;
+	color:aliceblue;
+   font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+#hero{
+	background-color: #8061b2;
+  padding-top: 50px;
+	padding-bottom: 50px;
+	color:#e0e0e0;  
+}
+
+#hero h1 {
+	
+	color:  #e0e0e0;
+font-size: 100px;
+	 font-family: "Bebas Neue", sans-serif;
+padding-top: 0px;
+	padding-bottom: 0px;
+  font-style: normal;	
+}
+
+#hero h6 {
+	
+	color:  #e0e0e0;
+font-size: 25px;
+	 font-family: "Bebas Neue", sans-serif;
+padding-top: 0px;
+	padding-bottom: 0px;
+  font-style: normal;	
+}
+#hero imagen{
+  padding-top: 0px;
+	padding-bottom: 0px;
+	 
+}
+
+container text-center {
+	background-color: #8557cf;
+	
+}
+
+#Branding{
+background-color: #ffffff;
+	border-bottom:1px solid #eee;
+	color:#4c2b93;
+	font-size: 50px;
+   font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	padding-top: 40px;
+}
+
+.branding{
+	color:  #e0e0e0;
+font-size: 70px;
+padding-left: 100px;
+	 font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#imagen {
+	background-color:#8557cf;
+}
+
+#hero h1 {
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	color: #4c2b93
+	}
+
+
+#hero h6 {
+color:#e0e0e0;
+font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	}
+	
+.imagen {
+padding-top: 100px;
+padding-bottom: 50px
+	}
+
+.services {
+	background-color:#ffffff;
+}
+
+.fa-10x {
+	color: #e0e0e0;
+	padding-top: 50px;
+	padding-bottom: 50px
+	}
+.fa-check {
+	color: #53c3c9;
+
+}
+
+#cualidades {
+	background-color:#4c2b93;
+	background-size:auto;
+	background-position: center;
+	background-blend-mode: multiply;
+	text-align: center;
+	}
+
+
+#cualidades h1 {
+color:  #e0e0e0;
+font-size: 115px;
+padding-left: 100px;
+	 font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	
+	}
+
+
+#cualidades h6 {
+color:  #4c2b93;
+padding-left: 100px;
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#editorial {
+	background-color:#e0e0e0;
+	background-size:auto;
+	background-position: center;
+	background-blend-mode: multiply;
+	text-align: center;
+	}
+
+#editorial h1 {
+color:  #4c2b93;
+font-size: 50px;
+padding-left: 100px;
+padding-top: 50px;
+	 font-family: "Bebas Neue", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+	}
+
+#editorial h3 {
+color:  #4c2b93;
+padding-left: 50px;
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#editorial h6 {
+color:  #4c2b93;
+padding-left: 100px;
+	font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+#customers text-center {
+padding-top: 50px;
+	padding-bottom: 50px;
+	
+	  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+	
+}
+
+footer{
+	background-color: #333333;
+	color: #bababa;
+	padding: 15px 0;
+	text-align: center;
+	  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
